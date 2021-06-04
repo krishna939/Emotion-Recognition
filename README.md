@@ -15,7 +15,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 -   **Vijay Lakshmi** - _Team Lead_ - [Vijay Lakshmi](https://github.com/vijaya988)
 -   **Naga Babu** - _Content Maker_ - [Naga Babu](https://github.com/Nagababu2001)
--   **Krishna Teja** - _Tester_ - [Krishna Teja]
+-   **Krishna Teja** - _Tester_ - [Krishna Teja](https://github.com/krishna939)
 -   **Siri Lalitha Adapa** - _DevOps_ - [sirilalithaadapa](https://github.com/sirilalithaadapa)
 
 
