@@ -13,8 +13,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 # :family: Team
 
--   **Vijay Lakshmi** - _Team Lead_ - [Vijay Lakshmi]
--   **Naga Babu** - _Content Maker_ - [Naga Babu]
+-   **Vijay Lakshmi** - _Team Lead_ - [Vijay Lakshmi](https://github.com/vijaya988)
+-   **Naga Babu** - _Content Maker_ - [Naga Babu](https://github.com/Nagababu2001)
 -   **Krishna Teja** - _Tester_ - [Krishna Teja]
 -   **Siri Lalitha Adapa** - _DevOps_ - [sirilalithaadapa](https://github.com/sirilalithaadapa)
 
