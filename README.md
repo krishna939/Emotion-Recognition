@@ -21,7 +21,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 See the full list of [contributors](https://github.com/sirilalithaadapa/Emotion-Recognition/graphs/contributors) who participated in this project and statistics.
 
-# :heavy_exclamation_mark: Prerequisites aka requirements
+# :heavy_exclamation_mark: Prerequisites requirements
 
 Please read [Prerequisite](Prerequisite.md) file for details.
 
