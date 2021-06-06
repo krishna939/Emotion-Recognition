@@ -15,5 +15,3 @@ Report [here](https://github.com/sirilalithadapa/Emotion-Recognition/issues/new)
 # How do I contact the team?
 
 Check [here](https://github.com/sirilalithadapa/Emotion-Recognition/graphs/contributors) for the list of contributors. Contact one of them through their profiles.
-
-Check [here](https://github.com/krishna939/Emotion-Recognition/graphs/contributors) for the list of contributors. Contact one of them through their profiles.
